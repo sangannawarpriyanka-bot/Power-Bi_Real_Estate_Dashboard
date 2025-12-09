@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Key Features & Visuals
+## 📊 Key Features & Visuals:
 
 ### **Dashboard Highlights**
 | Visual Description | Metrics / Insights |
