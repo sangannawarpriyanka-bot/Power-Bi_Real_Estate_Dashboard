@@ -1,12 +1,14 @@
 <img width="925" height="425" alt="real estate image2" src="https://github.com/user-attachments/assets/c883fb16-aaa0-42a5-ae45-5920232fc8fe" />
-# 🏠 Real Estate Market Analytics – Power BI Dashboard
 
-## 📌 Project Overview
-This Power BI project provides an analytical dashboard for real estate market performance, enabling stakeholders to monitor pricing trends, property characteristics, neighborhood insights, and sales performance. The dashboard delivers data-driven decision-making support for investors, agents, and property managers.
+## 🏡 Real Estate Data Analytics Dashboard | Power BI
+
+## 📌 Project Overview:
+  This Power BI dashboard provides data-driven insights for the Real Estate industry. It helps analyze market performance, property trends, pricing insights, and neighborhood details to support strategic decision-making for agents, investors, and real estate managers.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives:
+
 - 📈 Analyze market value, listed price, and property sales trends
 - 🏘️ Compare property performance by location and neighborhood
 - 👨‍💼 Evaluate agent, office, and property type efficiency
@@ -16,6 +18,7 @@ This Power BI project provides an analytical dashboard for real estate market pe
 ---
 
 ## 📊 Key Features & Visuals
+
 ### **Dashboard Highlights**
 | Visual Description | Metrics / Insights |
 |--------------------|--------------------|
