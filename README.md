@@ -34,13 +34,13 @@
 
 ## 📊 Dashboard Preview:
 
-<img width="690" height="335" alt="Real_Estate_Performance_Insight_Dashboard" src="https://github.com/user-attachments/assets/489e3dd2-298a-43e7-8f24-269cc82074bd" />
+<img width="790" height="335" alt="Real_Estate_Performance_Insight_Dashboard" src="https://github.com/user-attachments/assets/489e3dd2-298a-43e7-8f24-269cc82074bd" />
 
 
 
 
 
-<img width="678" height="329" alt="Real Estate Sales Performance Dashboard" src="https://github.com/user-attachments/assets/25b381ca-9785-40c5-90d0-37eaad5bde04" />
+<img width="690" height="335" alt="Real Estate Sales Performance Dashboard" src="https://github.com/user-attachments/assets/25b381ca-9785-40c5-90d0-37eaad5bde04" />
 
 
 
