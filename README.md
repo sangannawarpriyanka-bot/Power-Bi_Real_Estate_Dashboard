@@ -31,6 +31,21 @@
 | 📍 Map Visual | Property locations and density |
 
 ---
+## 📊 Dashboard Preview:
+
+<img width="590" height="335" alt="Real_Estate_Performance_Insight_Dashboard" src="https://github.com/user-attachments/assets/489e3dd2-298a-43e7-8f24-269cc82074bd" />
+
+
+
+# 📌 Key Performance Indicators (KPIs):
+
+- 💵 Total Market Value
+- 🧾 Total Listed Price
+- 🏠 Count of Properties
+- 👨‍💼 Total Agents
+- 🏘️ Average Neighborhood Walkability & Income
+- 🎯 Sales Target Achievement Gauge
+---
 
 ## 📂 Dataset Structure
 ### **Property Table**
